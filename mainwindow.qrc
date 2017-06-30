@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/systray.png</file>
+        <file>images/menu01.png</file>
+        <file>images/menu02.png</file>
+        <file>images/menu03.png</file>
+        <file>images/menu04.png</file>
+        <file>images/menu05.png</file>
+        <file>images/menu06.png</file>
+        <file>images/mouse1.png</file>
+        <file>images/mouse2.png</file>
+        <file>images/mouse3.png</file>
+        <file>images/mouse4.png</file>
+        <file>images/blank_tool.png</file>
+        <file>images/mouse_wire.png</file>
+        <file>images/icon_complex_input.png</file>
+        <file>images/icon_complex_output.png</file>
+        <file>images/icon_int_input.png</file>
+        <file>images/icon_int_output.png</file>
+        <file>images/icon_double_input.png</file>
+        <file>images/icon_double_output.png</file>
+        <file>images/icon_cast_double2complex.png</file>
+        <file>images/icon_cast_int2double.png</file>
+        <file>images/icon_bool_input.png</file>
+        <file>images/icon_bool_output.png</file>
+        <file>images/icon_func_and.png</file>
+        <file>images/icon_func_or.png</file>
+        <file>images/icon_func_not.png</file>
+        <file>images/icon_func_xor.png</file>
+        <file>images/icon_func_plus.png</file>
+        <file>images/icon_func_div.png</file>
+        <file>images/icon_func_minus.png</file>
+        <file>images/icon_func_mul.png</file>
+        <file>images/icon_str_cat.png</file>
+        <file>images/icon_str_constant.png</file>
+        <file>images/run_arrow_false.png</file>
+        <file>images/run_arrow_true.png</file>
+        <file>images/stop_block_false.png</file>
+        <file>images/stop_block_true.png</file>
+        <file>images/grid.png</file>
+        <file>images/icon_str_out.png</file>
+    </qresource>
+</RCC>
